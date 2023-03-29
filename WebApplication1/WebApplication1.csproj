@@ -652,6 +652,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="archivo\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
